@@ -7,15 +7,15 @@ const filecoin = require('./static/filecoin.json')
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'P2WDB',
-  tagline: 'Pay-to-Write Database',
+  title: 'Permissionless Software Foundation',
+  tagline: 'Open Source Incentivized With Tokens',
   url: 'https://permissionless-software-foundation.github.io',
-  baseUrl: '/p2wdb.com/',
+  baseUrl: '/psfoundation.info/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/logo.png',
   organizationName: 'permissionless-software-foundation', // Usually your GitHub org/user name.
-  projectName: 'p2wdb.com', // Usually your repo name.
+  projectName: 'psfoundation.info', // Usually your repo name.
   trailingSlash: false,
 
   presets: [
@@ -26,13 +26,13 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/Permissionless-Software-Foundation/p2wdb.com/tree/main'
+          editUrl: 'https://github.com/Permissionless-Software-Foundation/psfoundation.info/tree/main'
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/Permissionless-Software-Foundation/p2wdb.com/tree/main'
+            'https://github.com/Permissionless-Software-Foundation/psfoundation.info/tree/main'
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css')
@@ -59,7 +59,7 @@ const config = {
           },
           // { to: '/blog', label: 'Blog', position: 'left' },
           {
-            href: 'https://github.com/Permissionless-Software-Foundation/p2wdb.com',
+            href: 'https://github.com/Permissionless-Software-Foundation/psfoundation.info',
             label: 'GitHub',
             position: 'right'
           }
@@ -99,7 +99,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/Permissionless-Software-Foundation/p2wdb.com'
+                href: 'https://github.com/Permissionless-Software-Foundation/psfoundation.info'
               }
             ]
           }
