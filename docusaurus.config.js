@@ -45,9 +45,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'P2WDB',
+        title: 'PSF',
         logo: {
-          alt: 'P2WDB',
+          alt: 'PSF',
           src: 'img/logo.png'
         },
         items: [

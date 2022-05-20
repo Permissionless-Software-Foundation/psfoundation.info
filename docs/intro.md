@@ -4,9 +4,16 @@ sidebar_position: 1
 
 # Introduction
 
-The Pay-to-Write Database (P2WDB) is an open, decentralized, peer-to-peer (p2p) database. Like a blockchain, the database has many redundant copies spread across the globe. They sync with one another using consensus rules. This makes the database very difficult to censor, and a great place to store sensitive data that may be subject to censorship. Unlike a blockchain, the database is optimized for storing data. Each entry can store up to 10 KB of data, and costs 0.01 [PSF tokens](https://psfoundation.cash).
+The [Permissionless Software Foundation](https://psfoundation.cash) is a community of JavaScript developers, entrepreneurs, and businesses. We develop and maintain business-focused cryptocurrency applications and communication software, based on the [The Cash Stack](https://cashstack.info). Some of our software consumes PSF tokens during operation, which allows us to maintain a circular economy with our open source contributors.
 
-There are a handful of repositories that make up the P2WDB ecosystem:
+The mission of the PSF is to help individuals protect their privacy, circumvent censorship, and engage in economic activity. The software we build and maintain is in service to that mission. In addition to heavy usage of [IPFS](https://ipfs.io), we also focus on the use of three blockchains: Bitcoin Cash (BCH), eCash (XEC), and Avalanche (AVAX).
 
-- [p2wdb](https://www.npmjs.com/package/p2wdb) is a JavaScript library that can be used by web apps to read from and write to the P2WDB.
-- [ipfs-p2wdb-service](https://github.com/Permissionless-Software-Foundation/ipfs-p2wdb-service) is a node.js JavaScript app that will install and run an instance of the P2WDB.
+## About This Site
+
+This website is open source, living documentation that any member of the PSF is welcome to edit. It describes the purpose and operation of the Permissionless Software Foundation. This documentation will evolve as the organization evolves.
+
+This documentation is where members go to read the nitty-gritty details about the PSF:
+- Tokenomics
+- Governance Structure
+- Communication Tools
+- Our Approach to Open Source Software
