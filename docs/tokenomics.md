@@ -6,7 +6,7 @@ sidebar_position: 2
 
 The PSF token is issued primarily on the Bitcoin Cash (BCH) blockchain, using the Simple Ledger Protocol (SLP) for tokens. The Token ID below is linked to token information, including the current number of tokens in circulation:
 
-- [36...token ID](psfoundation.cash)
+- [36...token ID](https://psfoundation.cash)
 
 There are currently plans to issue the PSF token on the eCash blockchain as well, but it has not yet been issued.
 
