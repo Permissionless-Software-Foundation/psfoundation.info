@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpsfoundation_info=self.webpackChunkpsfoundation_info||[]).push([[483],{3419:function(n){n.exports=JSON.parse('{"allTagsPath":"/psfoundation.info/blog/tags","name":"hola","count":1,"permalink":"/psfoundation.info/blog/tags/hola"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpsfoundation_info=self.webpackChunkpsfoundation_info||[]).push([[82],{9862:function(o){o.exports=JSON.parse('{"permalink":"/psfoundation.info/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
