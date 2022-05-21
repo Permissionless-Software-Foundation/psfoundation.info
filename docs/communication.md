@@ -9,6 +9,7 @@ The PSF exists with the expectation that it will one day be threatened by a Stat
 Telegram is heavily used for communication channels. But the PSF maintains its own independent communication channels to combat any attempts at censorship or deplatforming. The following Telegram channels are maintained by the PSF community:
 
 - [PSF General Channel](https://psfoundation.cash) is used by the general public to ask questions, and is used by the wider PSF community to discuss governance and news related to the PSF.
+- [bch-js-toolkit](https://psfoundation.cash) is the community technical support channel. Any software developers with technical questions can ask in this channel, and any software developer with experience using PSF software is free to answer.
 - The [PSF VIP Channel](https://psfoundation.cash) is open to the public, but a chat bot ensures that only members who have proven sufficient merit are allowed to speak. This channel is used to discuss major governance changes in the PSF.
 - [PSF Social Chat](https://psfoundation.cash) is largely unmoderated. This is where off-topic ideas can be discussed.
 - [psf-slp-indexer](https://psfoundation.cash) is a Telegram channel to discuss technical concepts directly applicable to the [psf-slp-indexer software](http://github.com) or the [SLP protocol for tokens](https://github.com).
