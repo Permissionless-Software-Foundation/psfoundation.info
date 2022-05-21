@@ -4,11 +4,11 @@ sidebar_position: 6
 
 # Roadmap
 
-Below is a roadmap of software developed by the PSF. While its easiest to present the milestones in a linear fashion, most of these goals can be achieved in parallel. Dates are never used when presenting milestones, because the PSF is not a company that can make steady progress on any one area. Also, these milestones are rarely 'done', because they require steady maintenance over time. Instead, progress depends on the number of active developers participating in our open source community. Business members can accelerate development of any milestone by purchasing PSF tokens and paying developers with them.
+Below is a roadmap of software developed by the PSF. While it's easiest to present the milestones in a linear fashion, most of these goals can be achieved in parallel. Dates are never used when presenting milestones, because the PSF is *not a company* that can make steady progress on any one area. Also, these milestones are rarely 'done', because they require steady maintenance over time. Instead, progress depends on the number of active developers participating in our open source community. Business members can accelerate development of any milestone by purchasing PSF tokens and paying developers with them.
 
 ## Milestones Achieved
 
-- Create documentation to describe the Cash Stack.
+- Create documentation to describe the [Cash Stack](https://cashstack.info).
 - Create a proposal voting process using SLP tokens.
 - Create end-to-end encrypted (ee2e) synchronous chat using Bitcoin Eliptic Curve encryption.
 - Create ee2e 'email' allowing asynchronous communication with any BCH address.

@@ -26,13 +26,13 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/Permissionless-Software-Foundation/psfoundation.info/tree/main'
+          editUrl: 'https://github.com/Permissionless-Software-Foundation/psfoundation.info/tree/master'
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/Permissionless-Software-Foundation/psfoundation.info/tree/main'
+            'https://github.com/Permissionless-Software-Foundation/psfoundation.info/tree/master'
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css')
@@ -74,6 +74,10 @@ const config = {
               {
                 label: 'CashStack',
                 to: '/docs/intro'
+              },
+              {
+                label: 'Old Business Plan',
+                to: 'https://psfoundation.cash/biz-plan/business-plan'
               }
             ]
           },
@@ -82,7 +86,7 @@ const config = {
             items: [
               {
                 label: 'Telegram',
-                href: 'https://t.me/bch_js_toolkit'
+                href: 'https://t.me/permissionless_software'
               },
               {
                 label: 'Twitter',
