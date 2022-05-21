@@ -13,7 +13,7 @@ const config = {
   baseUrl: '/psfoundation.info/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/logo.png',
+  favicon: 'img/psf-logo.png',
   organizationName: 'permissionless-software-foundation', // Usually your GitHub org/user name.
   projectName: 'psfoundation.info', // Usually your repo name.
   trailingSlash: false,
@@ -48,7 +48,7 @@ const config = {
         title: 'PSF',
         logo: {
           alt: 'PSF',
-          src: 'img/logo.png'
+          src: 'img/psf-logo.png'
         },
         items: [
           {
@@ -95,7 +95,7 @@ const config = {
             ]
           },
           {
-            title: 'More',
+            title: 'Mirrors',
             items: [
               {
                 label: 'Filecoin',

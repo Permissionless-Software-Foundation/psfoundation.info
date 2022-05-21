@@ -16,8 +16,7 @@ const FeatureList = [
     description: (
       <>
         <p>
-          Read about the differnet layers of the CashStack framework, and the
-          different open source projects that it is made from.
+          Read about the governance and software maintained by the Permissionless Software Foundation.
         </p>
         <div>
           <Link
@@ -37,9 +36,8 @@ const FeatureList = [
     description: (
       <>
         <p>
-          The written documentation is complimented by our video
-          walkthroughs. Videos start easy at the top, and get more
-          technical as you navigate down the videos page.
+          Ready to <i>do</i> something? Jump into our video tutorials, showing how to
+          use PSF software.
         </p>
         <div className={styles.buttons}>
           <Link
@@ -64,18 +62,9 @@ const FeatureList = [
         <div className={styles.buttons}>
           <Link
             className='button button--secondary button--lg'
-            to='https://t.me/bch_js_toolkit' target='_blank'
+            to='https://t.me/permissionless_software' target='_blank'
           >
             Telegram
-          </Link>
-        </div>
-        <br />
-        <div className={styles.buttons}>
-          <Link
-            className='button button--secondary button--lg'
-            to='https://gitter.im/Permissionless-Software-Foundation/bch-js' target='_blank'
-          >
-            Gitter
           </Link>
         </div>
       </>
