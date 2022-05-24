@@ -16,7 +16,7 @@ The [Minting Council](/docs/governance#the-minting-council) holds the minting ba
 
 The PSF token is loosely pegged to the value of Bitcoin Cash (BCH). The price of the PSF token (in BCH) is determined by an equation enforced by the [token-liquidity app](https://github.com/Permissionless-Software-Foundation/token-liquidity), which can be interacted with at [PSFoundation.cash](https://psfoundation.cash), in order to buy and sell PSF tokens.
 
-The token-liquidity app maintains its own wallet, containing both BCH and PSF tokens. The token-liquidity app is known as an 'automated market maker'. It's akin to a vending machine that will trade PSF tokens in exchange for BCH according to a predefined equation. In this way, the app provides perfect liquidity between BCH and the PSF token, and the PSF is 'backed' by the BCH in the apps wallet.
+The token-liquidity app maintains its own wallet, containing both BCH and PSF tokens. The token-liquidity app is classified as an 'automated market maker'. It's akin to a vending machine that will trade PSF tokens in exchange for BCH according to a predefined equation. In this way, the app provides perfect liquidity between BCH and the PSF token, and the PSF is 'backed' by the BCH in the apps wallet.
 
 The token-liquidity app is currently the best way to obtain PSF tokens to participate in governance, or to interact with PSF software that charges fees in PSF tokens. But this app will eventually be phased out in favor of [dex.fullstack.cash](https://dex.fullstack.cash) as described in [the Roadmap](/docs/roadmap).
 
@@ -29,7 +29,7 @@ A 'catastrophic loss' of the token can take many forms. Here are a few examples:
 - A number of Minting Council members conspire to inflate and embezzle PSF tokens.
 - A State actor arrests PSF members and actively tries to shut down the organization.
 
-Any imaginable catastrophic loss can be mitigated through the creation of a new token. Because the PSF runs entirely on open source software, anyone in the world has the ability to fork the code and modify it to work with a different token. The new token can then be air-dropped to all addresses holding the old token. This is affectionately referred to as 'the nuclear option'.   
+Any imaginable catastrophic loss can be mitigated through the creation of a new token. Because the PSF runs entirely on open source software, anyone in the world has the ability to fork the code and modify it to work with a different token. The new token can then be air-dropped to all addresses holding the old token. This is affectionately referred to as 'the nuclear option', but it would only take a few hours to execute.
 
 The value of the PSF resides in its community, its mission, and the network effect of its users. The token is simply a coordination tool. Like any good tool, it can be upgraded and modified.
 
@@ -43,7 +43,7 @@ The diagram below shows two workflows. *Intrinsically motivated developers* have
 
 *Extrinsically motivated developers* have a larger loop, and this is where the PSF token plays a role. Many parts of open source software require extrinsic motivation. They aren't fun. They are quite boring. It's a job. This type of work is usually associated with unit tests, documentation writing, reviewing bug reports, and other *maintenance* activity. The need for extrinsic motivation is where many open source projects suffer from a lack of funding.
 
-These two development workflows operate independently, but they can be thought of as two flywheels that are loosely coupled. They are allowed to spin independently, but as one spins up, it spins up the other one too. Every iteration cycle (each trip round the loop) improves the software, increases value, monetizes value, and invests that value back into itself.
+These two development workflows operate independently, but they can be thought of as two flywheels that are loosely coupled. They are allowed to spin independently, but as one spins up, it spins up the other one too. Every iteration cycle (each trip around the loop) improves the software, increases value, monetizes value, and invests that value back into itself.
 
 ### Additional Reading:
 If you'd like to dig deeper into the theory and design of the PSF token economics, see these additional resources:
@@ -53,4 +53,4 @@ If you'd like to dig deeper into the theory and design of the PSF token economic
 - [Healthy Bitcoin](https://psfoundation.cash/blog/healthy-bitcoin)
 - [What is the PSF?](https://christroutner.github.io/trouts-blog/blog/what-is-psf)
 - [Product vs Project](https://christroutner.github.io/trouts-blog/blog/product-vs-project)
-- [Freedom, Softwre, and Token Economics; A Short Story](https://christroutner.github.io/trouts-blog/blog/freedom-software-token-economic-short-story)
+- [Freedom, Software, and Token Economics; A Short Story](https://christroutner.github.io/trouts-blog/blog/freedom-software-token-economic-short-story)
