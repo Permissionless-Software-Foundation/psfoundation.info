@@ -38,5 +38,3 @@ The *core* software maintained by the PSF is as follows:
   - Full Nodes
     - [docker-bchn](https://github.com/Permissionless-Software-Foundation/docker-bchn) - Docker container for a BCHN full node on the BCH blockchain.
     - [docker-abc](https://github.com/Permissionless-Software-Foundation/docker-abc) - Docker container for the Bitcoin ABC full node on the eCash blockchain.
-- The [Pay-to-Write Database](https://github.com/Permissionless-Software-Foundation/ipfs-p2wdb-service) (P2WDB)
-- The [bch-dex](https://bch-dex-docs.fullstack.cash/) ([GitHub](https://github.com/Permissionless-Software-Foundation/bch-dex)) ([demo](https://dex.fullstack.cash))
