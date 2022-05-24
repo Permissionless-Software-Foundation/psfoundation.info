@@ -4,7 +4,9 @@ sidebar_position: 6
 
 # Roadmap
 
-Below is a roadmap of software developed by the PSF. While it's easiest to present the milestones in a linear fashion, most of these goals can be achieved in parallel. Dates are never used when presenting milestones, because the PSF is *not a company* that can make steady progress on any one area. Also, these milestones are rarely 'done', because they require steady maintenance over time. Instead, progress depends on the number of active developers participating in our open source community. Business members can accelerate development of any milestone by purchasing PSF tokens and paying developers with them.
+Below is a roadmap of software developed by the PSF. While it's easiest to present the milestones in a linear fashion, most of these goals can be achieved in parallel. Dates are never used when presenting milestones, because the PSF is *not a company* that can make steady progress on any one area. Most contributions come from *intrinsically motivated* developers who are persuing their own personal interests, and try to give back to the PSF at the same time.
+
+Milestones are rarely 'done', because they require steady maintenance over time. Instead, progress depends on the number of active developers participating in our open source community. That includes intrinsically motivated developers (which tend to help with new features), and extrinsically (paid) motivated developers (which tend to help with unit tests and maintenance). Business members can accelerate development of any milestone by purchasing PSF tokens and rewarding developers with them.
 
 ## Major Milestones Achieved
 
