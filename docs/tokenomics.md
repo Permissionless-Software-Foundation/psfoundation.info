@@ -32,3 +32,15 @@ A 'catastrophic loss' of the token can take many forms. Here are a few examples:
 Any imaginable catastrophic loss can be mitigated through the creation of a new token. Because the PSF runs entirely on open source software, anyone in the world has the ability to fork the code and modify it to work with a different token. The new token can then be air-dropped to all addresses holding the old token. This is affectionately referred to as 'the nuclear option'.   
 
 The value of the PSF resides in its community, its mission, and the network effect of its users. The token is simply a coordination tool. Like any good tool, it can be upgraded and modified.
+
+## Token Economics
+
+[Working in Public](https://amzn.to/3MvMXm1) makes a careful distinction between *intrinsically* motivated (creativity) and *extrinsically* motivated (money) software developers. In reality, these two motivations are blended together, but the token economics are best explained by looking at them separately.
+
+The diagram below shows two workflows. *Intrinsically motivated developers* have a small loop, which means they can iterate very quickly. Intrinsically motivated developers work on the code for their own reasons. They may be an entrepreneur working on their own idea, they might be paid by a company with a culture of giving back, they may simply be exploring creatively, or they may be doing it for educational purposes. These developers submit Pull Requests (PRs) as a way to give back to the community. Intrinsically motivated developers have always been the primary driver of open source software.
+
+![Token Economic Loop](./img/token-loop.png)
+
+*Extrinsically motivated developers* have a larger loop, and this is where the PSF token plays a role. Many parts of open source software require extrinsic motivation. They aren't fun. They are quite boring. It's a job. This type of work is usually associated with unit tests, documentation writing, reviewing bug reports, and other *maintenance* activity. The need for extrinsic motivation is where many open source projects suffer from a lack of funding.
+
+These two development workflows operate independently, but they can be thought of as two flywheels that are loosely coupled. They are allowed to spin independently, but as one spins up, it spins up the other one too. Every iteration cycle (each trip round the loop) improves the software, increases value, monetizes value, and invests that value back into itself.
