@@ -44,3 +44,13 @@ The diagram below shows two workflows. *Intrinsically motivated developers* have
 *Extrinsically motivated developers* have a larger loop, and this is where the PSF token plays a role. Many parts of open source software require extrinsic motivation. They aren't fun. They are quite boring. It's a job. This type of work is usually associated with unit tests, documentation writing, reviewing bug reports, and other *maintenance* activity. The need for extrinsic motivation is where many open source projects suffer from a lack of funding.
 
 These two development workflows operate independently, but they can be thought of as two flywheels that are loosely coupled. They are allowed to spin independently, but as one spins up, it spins up the other one too. Every iteration cycle (each trip round the loop) improves the software, increases value, monetizes value, and invests that value back into itself.
+
+### Additional Reading:
+If you'd like to dig deeper into the theory and design of the PSF token economics, see these additional resources:
+
+- [token-liquidity developer documentation](https://github.com/Permissionless-Software-Foundation/token-liquidity/tree/master/docs)
+- [DEX documentation](https://bch-dex-docs.fullstack.cash/)
+- [Healthy Bitcoin](https://psfoundation.cash/blog/healthy-bitcoin)
+- [What is the PSF?](https://christroutner.github.io/trouts-blog/blog/what-is-psf)
+- [Product vs Project](https://christroutner.github.io/trouts-blog/blog/product-vs-project)
+- [Freedom, Softwre, and Token Economics; A Short Story](https://christroutner.github.io/trouts-blog/blog/freedom-software-token-economic-short-story)
