@@ -26,14 +26,10 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/Permissionless-Software-Foundation/psfoundation.info/tree/master'
+          editUrl: 'https://github.com/Permissionless-Software-Foundation/psfoundation.info/tree/master',
+          routeBasePath: '/'
         },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/Permissionless-Software-Foundation/psfoundation.info/tree/master'
-        },
+        blog: false,
         theme: {
           customCss: require.resolve('./src/css/custom.css')
         }
