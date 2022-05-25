@@ -10,7 +10,7 @@ const config = {
   title: 'Permissionless Software Foundation',
   tagline: 'Open Source Incentivized With Tokens',
   url: 'https://permissionless-software-foundation.github.io',
-  baseUrl: '/psfoundation.info/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/psf-logo.png',
