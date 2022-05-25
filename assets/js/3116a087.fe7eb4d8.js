@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpsfoundation_info=self.webpackChunkpsfoundation_info||[]).push([[674],{4587:function(n){n.exports=JSON.parse('{"allTagsPath":"/psfoundation.info/blog/tags","name":"docusaurus","count":4,"permalink":"/psfoundation.info/blog/tags/docusaurus"}')}}]);
