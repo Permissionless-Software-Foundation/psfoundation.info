@@ -10,7 +10,7 @@ The PSF token is issued primarily on the Bitcoin Cash (BCH) blockchain, using th
 
 There are currently plans to issue the PSF token on the eCash blockchain as well, but it has not yet been issued.
 
-The [Minting Council](/docs/governance#the-minting-council) holds the minting baton, which controls the ability to mint new PSF tokens into existence. The baton is held in a multisignature wallet, and each member of the Minting Council holds a key. They only communicate using encrypted messages passed over the Bitcoin Cash blockchain.
+The [Minting Council](/governance#the-minting-council) holds the minting baton, which controls the ability to mint new PSF tokens into existence. The baton is held in a multisignature wallet, and each member of the Minting Council holds a key. They only communicate using encrypted messages passed over the Bitcoin Cash blockchain.
 
 ## Token Liquidity and Peg
 
@@ -18,7 +18,7 @@ The PSF token is loosely pegged to the value of Bitcoin Cash (BCH). The price of
 
 The token-liquidity app maintains its own wallet, containing both BCH and PSF tokens. The token-liquidity app is classified as an 'automated market maker'. It's akin to a vending machine that will trade PSF tokens in exchange for BCH according to a predefined equation. In this way, the app provides perfect liquidity between BCH and the PSF token, and the PSF is 'backed' by the BCH in the apps wallet.
 
-The token-liquidity app is currently the best way to obtain PSF tokens to participate in governance, or to interact with PSF software that charges fees in PSF tokens. But this app will eventually be phased out in favor of [dex.fullstack.cash](https://dex.fullstack.cash) as described in [the Roadmap](/docs/roadmap).
+The token-liquidity app is currently the best way to obtain PSF tokens to participate in governance, or to interact with PSF software that charges fees in PSF tokens. But this app will eventually be phased out in favor of [dex.fullstack.cash](https://dex.fullstack.cash) as described in [the Roadmap](/roadmap).
 
 ## The 'Nuclear' Option
 

@@ -69,7 +69,7 @@ const config = {
             items: [
               {
                 label: 'CashStack',
-                to: '/docs/intro'
+                to: 'https://cashstack.info'
               },
               {
                 label: 'Old Business Plan',

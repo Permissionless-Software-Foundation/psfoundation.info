@@ -21,7 +21,7 @@ const FeatureList = [
         <div>
           <Link
             className='button button--secondary button--lg'
-            to='/docs/intro'
+            to='/intro'
           >
             Read Docs
           </Link>

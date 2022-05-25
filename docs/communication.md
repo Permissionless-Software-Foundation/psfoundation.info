@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # Communication
 
-The PSF exists with the expectation that it will one day be threatened by a State actor. If the PSF is successful in wide adoption of its software, and stays true to its [mission](/docs/intro#our-mission), then it will inevitably be threatened by a State actor. For that reason, communication channels in the PSF straddle a pragmatic approach between convenience and self-sufficiency.
+The PSF exists with the expectation that it will one day be threatened by a State actor. If the PSF is successful in wide adoption of its software, and stays true to its [mission](/#our-mission), then it will inevitably be threatened by a State actor. For that reason, communication channels in the PSF straddle a pragmatic approach between convenience and self-sufficiency.
 
 Telegram is heavily used for communication channels, but the PSF maintains its own independent communication channels to combat any attempts at censorship or deplatforming. The following Telegram channels are maintained by the PSF community:
 
@@ -18,4 +18,4 @@ Telegram is heavily used for communication channels, but the PSF maintains its o
 In the event that PSF's presence on Telegram is ever threatened, the following communication channels have been developed. They are typically used for specific business applications, but provide a 'fall-back' for communication if Telegram is ever unavailable.
 
 - [chat.fullstack.cash](https://chat.fullstack.cash) is a browser-based encrypted chat application. The app creates an encrypted communication channel between any two computers in the world. This app is being developed as an interface to the PSF chat bot that will be an interface to our DEX software.
-- [psf-bch-wallet](https://github.com/Permissionless-Software-Foundation/psf-bch-wallet) is a BCH wallet with many other features. It runs on the command line, so has no graphical user interface. It's capable of replacing chat.fullstack.cash as an interface to our encrypted chat channels. It also has the ability to send encrypted 'email' over the BCH blockchain. It's the primary communication tool for the [Minting Council](/docs/governance#the-minting-council).
+- [psf-bch-wallet](https://github.com/Permissionless-Software-Foundation/psf-bch-wallet) is a BCH wallet with many other features. It runs on the command line, so has no graphical user interface. It's capable of replacing chat.fullstack.cash as an interface to our encrypted chat channels. It also has the ability to send encrypted 'email' over the BCH blockchain. It's the primary communication tool for the [Minting Council](/governance#the-minting-council).
