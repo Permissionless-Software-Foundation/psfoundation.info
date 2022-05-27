@@ -3,10 +3,14 @@ sidebar_position: 2
 ---
 
 # Governance
+At the highest conceptual level, the goal of PSF governance is to ensure that the people *most impacted* by decisions are the ones with the *greatest influence* over those decisions. Everything else is a detail in the attempt to achieve that ideal.
 
+To make that idea less abstract: When new PSF tokens are brought into existence, it dilutes the value of the existing tokens through inflation. Therefore, the PSF governance is structured to give the existing token holders the most power over decision making.
+
+## Org Chart
 The governance structure for the PSF is as horizontal as possible. At the top of the organizational chart is the [VIP Telegram channel](https://t.me/psf_vip). Only members who have demonstrated a sufficient merit are allowed to speak in the room. Merit is based on the number of PSF tokens held by a member, and the length of time they've been held.
 
-The VIP channel is where governance discussion takes place. After sufficient discussion and interest, a voting proposal may be drafted to make serious governance decisions. [Voting proposals](https://psfoundation.cash/proposals) are posted to the PSF website. Voting tokens are air-dropped to the top 50 addresses holding PSF tokens, proportional to their merit. Votes are tallied to achive a 'yes' or 'no' vote on major governance decisions.
+The VIP channel is where governance discussion takes place. After sufficient discussion and a rough consensus has been achieved, a voting proposal may be drafted to finalize and execute governance decisions. [Voting proposals](https://psfoundation.cash/proposals) are posted to the PSF website. Voting tokens are air-dropped to the top 50 addresses holding PSF tokens, proportional to their merit. Votes are tallied to achive a 'yes' or 'no' vote on major governance decisions.
 
 There are four sub-committees that are accountable to the members in the VIP channel:
 - The Management - A small team of dedicated members who perform administrative tasks.
