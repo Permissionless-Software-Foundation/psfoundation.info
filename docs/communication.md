@@ -10,7 +10,7 @@ Telegram is heavily used for communication channels, but the PSF maintains its o
 
 - [PSF General Channel](https://t.me/permissionless_software) is used by the general public to ask questions, and is used by the wider PSF community to discuss governance and news related to the PSF.
 - [bch-js-toolkit](https://t.me/bch_js_toolkit) is the community technical support channel. Any software developers with technical questions can ask in this channel, and any software developer with experience using PSF software is free to answer.
-- The [PSF VIP Channel](https://t.me/psf_vip) is open to the public, but a chat bot ensures that only members who have proven sufficient merit are allowed to speak. This channel is used to discuss major governance changes in the PSF.
+- The [PSF VIP Channel](https://t.me/psf_vip) is open to the public, but a chat bot ensures that only members who have proven ownership of a Governance token can speak. This channel is used to discuss major governance changes in the PSF.
 - [PSF Social Chat](https://t.me/psf_social) is largely unmoderated. This is where off-topic ideas can be discussed.
 - [psf-slp-indexer](https://t.me/psf_slp) is a Telegram channel to discuss technical concepts directly applicable to the [psf-slp-indexer software](http://github.com) or the [SLP protocol for tokens](https://github.com/simpleledger/slp-specifications/blob/master/slp-token-type-1.md).
 - [psf-dex-dev](https://t.me/psf_dex_dev) is used for technical discussion around the [bch-dex](https://dex.fullstack.cash) DEX software, and its forks for the AVAX and eCash blockchains.
