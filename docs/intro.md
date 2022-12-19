@@ -21,7 +21,7 @@ The PSF focuses its efforts on *developers* and not *end users*. The pipeline of
 
 ![PSF Production Workflow](./img/production-workflow.png)
 
-The PSF builds *infrastructure* for developers, and will occasionally produce apps like [demo-wallet.fullstack.cash](https://demo-wallet.fullstack.cash) or [dex.fullstack.cash](https://dex.fullstack.cash) to *inspire* developers, but these are not intended to be complete products for *end-users*.
+The PSF builds *infrastructure* for developers, and will occasionally produce apps like [wallet.fullstack.cash](https://bchn-wallet.fullstack.cash) or [dex.fullstack.cash](https://dex.fullstack.cash) to *inspire* developers, but these are not intended to be complete products for *end-users*.
 
 Many non-developers who try to consume PSF software become disappointed and are quick to suggest feature improvements, then are further disappointed when their suggestions get little attention. This section exists to set appropriate expectations.
 

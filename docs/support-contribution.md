@@ -18,6 +18,7 @@ PSF software is maintained by paid developers. If our software provides value to
 
 
 ![bitcoincash:qqsrke9lh257tqen99dkyy2emh4uty0vky9y0z0lsr](./img/psf-burn-qr.png)
+
 bitcoincash:qqsrke9lh257tqen99dkyy2emh4uty0vky9y0z0lsr
 
 Any BCH sent the address above will automatically purchase PSF tokens at the spot price and burn them. This increases the price of the PSF token, which is used to pay developers.
