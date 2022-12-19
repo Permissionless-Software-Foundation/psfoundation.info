@@ -10,7 +10,7 @@ The *core* software maintained by the PSF is as follows:
     - [bch-wallet-starter](https://github.com/Permissionless-Software-Foundation/bch-wallet-starter) - ([demo](https://demo-wallet.fullstack.cash/)) - Web wallet, Gatsby Starter
     - [gatsby-theme-bch-wallet](https://github.com/Permissionless-Software-Foundation/gatsby-theme-bch-wallet) - Web wallet, Gatsby Theme
     - [PSF DEX](https://bch-dex-docs.fullstack.cash/) - Decentralized exchange for SLP tokens.
-      - [Demo](dex.fullstack.cash)
+      - [Demo](https://dex.fullstack.cash)
       - [bch-dex](https://github.com/Permissionless-Software-Foundation/bch-dex) - node.js JavaScript REST API server, and production Docker container.
       - [bch-dex-ui](https://github.com/Permissionless-Software-Foundation/bch-dex-ui) - Gatsby web-based UI for controlling bch-dex.
       - [avax-dex](https://github.com/Permissionless-Software-Foundation/avax-dex) - Avalanche X-chain implementation of bch-dex.
