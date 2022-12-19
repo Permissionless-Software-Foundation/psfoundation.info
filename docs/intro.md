@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+slug: /
 ---
 
 # Introduction
@@ -8,7 +9,23 @@ The [Permissionless Software Foundation](https://psfoundation.cash) is a communi
 
 ## Our Mission
 
-The mission of the PSF is to help individuals protect their privacy, circumvent censorship, and engage in economic activity. The software we build and maintain is in service to that mission. In addition to heavy usage of [IPFS](https://ipfs.io), we also focus on the use of three blockchains: Bitcoin Cash (BCH), eCash (XEC), and Avalanche (AVAX).
+The mission of the PSF is to help individuals protect their privacy, circumvent censorship, and engage in economic activity. The software we build and maintain is in service to that mission.
+
+## Open Source
+
+The PSF's approach to open source software is greatly influenced by:
+- [Working in Public](https://amzn.to/3MvMXm1) by Nadia Eghbal
+- [Healthy Open Source](https://medium.com/the-node-js-collection/healthy-open-source-967fa8be7951) by Mikeal Rogers.
+
+The PSF focuses its efforts on *developers* and not *end users*. The pipeline of software production looks like this:
+
+![PSF Production Workflow](./img/production-workflow.png)
+
+The PSF builds *infrastructure* for developers, and will occasionally produce apps like [demo-wallet.fullstack.cash](https://demo-wallet.fullstack.cash) or [dex.fullstack.cash](https://dex.fullstack.cash) to *inspire* developers, but these are not intended to be complete products for *end-users*.
+
+Many non-developers who try to consume PSF software become disappointed and are quick to suggest feature improvements, then are further disappointed when their suggestions get little attention. This section exists to set appropriate expectations.
+
+The PSFs intention is for infrastructure, specifications, and demo apps produced by the PSF to serve as an inspiration to the developers and entrepreneurs who make up the PSF community. They are the ones who are expected to take the software to the next level, to create and manage a pleasant (and profitable) end-user experience.
 
 ## About This Site
 

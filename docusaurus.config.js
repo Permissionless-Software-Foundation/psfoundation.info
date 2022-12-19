@@ -10,7 +10,7 @@ const config = {
   title: 'Permissionless Software Foundation',
   tagline: 'Open Source Incentivized With Tokens',
   url: 'https://permissionless-software-foundation.github.io',
-  baseUrl: '/psfoundation.info/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/psf-logo.png',
@@ -26,14 +26,10 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/Permissionless-Software-Foundation/psfoundation.info/tree/master'
+          editUrl: 'https://github.com/Permissionless-Software-Foundation/psfoundation.info/tree/master',
+          routeBasePath: '/'
         },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/Permissionless-Software-Foundation/psfoundation.info/tree/master'
-        },
+        blog: false,
         theme: {
           customCss: require.resolve('./src/css/custom.css')
         }
@@ -73,7 +69,7 @@ const config = {
             items: [
               {
                 label: 'CashStack',
-                to: '/docs/intro'
+                to: 'https://cashstack.info'
               },
               {
                 label: 'Old Business Plan',

@@ -1,12 +1,16 @@
 ---
-sidebar_position: 3
+sidebar_position: 2
 ---
 
 # Governance
+At the highest conceptual level, the goal of PSF governance is to ensure that the people *most impacted* by decisions are the ones with the *greatest influence* over those decisions. Everything else is a detail in the attempt to achieve that ideal.
 
-The governance structure for the PSF is as horizontal as possible. At the top of the organizational chart is the [VIP Telegram channel](https://t.me/psf_vip). Only members who have demonstrated a sufficient merit are allowed to speak in the room. Merit is based on the number of PSF tokens held by a member, and the length of time they've been held.
+To make that idea less abstract: When new PSF tokens are brought into existence, it dilutes the value of the existing tokens through inflation. Therefore, the PSF governance is structured to give the existing token holders the most power over decision making.
 
-The VIP channel is where governance discussion takes place. After sufficient discussion and interest, a voting proposal may be drafted to make serious governance decisions. [Voting proposals](https://psfoundation.cash/proposals) are posted to the PSF website. Voting tokens are air-dropped to the top 50 addresses holding PSF tokens, proportional to their merit. Votes are tallied to achive a 'yes' or 'no' vote on major governance decisions.
+## Org Chart
+The governance structure for the PSF is as horizontal as possible. At the top of the organizational chart is the [VIP Telegram channel](https://t.me/psf_vip). Anyone can join the room, but only members who have cryptographically proven that they possess a PSF Governance token are allowed to speak in the room. Governance tokens can be purchased via the [BCH DEX](https://dex.fullstack.cash). Their market price is free to float, but new Governance tokens are sold by the PSF at a price of 1,000 PSF tokens. Governance tokens may also be awarded for acts of great contribution to the PSF. Anyone who obtains a Governance token can participate in PSF Governance. One token translates to one vote.
+
+The VIP channel is where governance discussion takes place. After sufficient discussion and a rough consensus has been achieved, a voting proposal may be drafted to finalize and execute governance decisions. [Voting proposals](https://psfoundation.cash/proposals) are posted to the PSF website. Voting tokens are air-dropped to each address holding a PSF Governance token. One voting token is air-dropped for each Governance token held. Votes are tallied to achive a 'yes' or 'no' vote on major governance decisions.
 
 There are four sub-committees that are accountable to the members in the VIP channel:
 - The Management - A small team of dedicated members who perform administrative tasks.
@@ -20,19 +24,19 @@ There are four sub-committees that are accountable to the members in the VIP cha
 
 ### The Management
 
-The management is currently composed of three members. Their primary function is to maintain the code repositories and websites, and to pay out PSF bounties. They organize and execute voting proposals at the request of members of the VIP channel. They oversee the execution of the results of the voting proposals.
+The management has historically been composed of three members. Contributors who wish to be anonymous will have their wishes respected. Their primary function is to maintain the code repositories and websites, and to pay out PSF bounties. They organize and execute voting proposals at the request of members of the VIP channel. They oversee the execution of the results of the voting proposals.
 
 - **Head Janitor** - [Chris Troutner](https://github.com/christroutner) is currently the chairman of the [Technical Steering Committee](#technical-steering-committee-tsc). He manages the agenda and hosts the bi-weekly meetings. He is the largest contributor to the open source code repositories maintained by the PSF.
 
-- **Business Development** - David Allen is an adviser to the PSF and a member of the VIP channel. He occasionally performs business development on behalf of the PSF.
+- **Business Development** - The role of Business Development is to meet with people in the crypto space and look for business opportunities to deploy PSF software. They are an evangelist, constantly trying to bring new members into the PSF.
 
 - **Business Administrator** - Our business administrator prefers to remain anonymous. While their identity is a secret, their integrity and professionalism is obvious and appreciated.
 
 ### The Minting Council
 
-The minting council is the newest council, and it is still being formed. To be a member of the minting council requires a demonstration of commitment. This will take the form of burning a specified quantity of PSF tokens in exchange for an NFT, issued by the minting council. The NFT acts as a homing-beacon, allowing other members of the minting council to send the holder end-to-end encrypted (ee2e) messages.
+The minting council is the newest council, and it is still being formed. To be a member of the minting council requires a demonstration of commitment. The VIP group will determine the requirements for joining the minting council. Each member of the minting council will be given an NFT. The NFT acts as a homing-beacon, allowing other members of the minting council to send the holder end-to-end encrypted (ee2e) messages.
 
-Each member of the minting council holds a key to the multisignature wallet that allow minting of additional PSF tokens. The minting council communicates at a minimum of once per quarter to rotate keys. They are the only group with the ability to bring new tokens into existence, and they only do so at the direction of the VIP channel, after the passing of a voting proposal.
+Each member of the minting council holds a key to a multisignature wallet which allows minting of additional PSF tokens. The minting council communicates at a minimum of once per quarter to rotate keys. They are the only group with the ability to bring new tokens into existence, and they only do so at the direction of the VIP channel, after the passing of a voting proposal.
 
 ### Technical Steering Committee (TSC)
 
