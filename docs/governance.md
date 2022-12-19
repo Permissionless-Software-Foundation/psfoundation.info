@@ -8,9 +8,6 @@ At the highest conceptual level, the goal of PSF governance is to ensure that th
 To make that idea less abstract: When new PSF tokens are brought into existence, it dilutes the value of the existing tokens through inflation. Therefore, the PSF governance is structured to give the existing token holders the most power over decision making.
 
 ## Org Chart
-The governance structure for the PSF is as horizontal as possible. At the top of the organizational chart is the [VIP Telegram channel](https://t.me/psf_vip). Anyone can join the room, but only members who have cryptographically proven that they possess a PSF Governance token are allowed to speak in the room. Governance tokens can be purchased via the [BCH DEX](https://dex.fullstack.cash). Their market price is free to float, but new Governance tokens are sold by the PSF at a price of 1,000 PSF tokens. Governance tokens may also be awarded for acts of great contribution to the PSF. Anyone who obtains a Governance token can participate in PSF Governance. One token translates to one vote.
-
-The VIP channel is where governance discussion takes place. After sufficient discussion and a rough consensus has been achieved, a voting proposal may be drafted to finalize and execute governance decisions. [Voting proposals](https://psfoundation.cash/proposals) are posted to the PSF website. Voting tokens are air-dropped to each address holding a PSF Governance token. One voting token is air-dropped for each Governance token held. Votes are tallied to achive a 'yes' or 'no' vote on major governance decisions.
 
 There are four sub-committees that are accountable to the members in the VIP channel:
 - The Management - A small team of dedicated members who perform administrative tasks.
@@ -19,6 +16,14 @@ There are four sub-committees that are accountable to the members in the VIP cha
 - The Community Committee (CommComm) - represents the non-technical members of PSF which are composed of businesses, entrepreneurs, and users.
 
 ![PSF governance Org chart](./img/gov-org-chart.png)
+
+## VIP Channel
+The governance structure for the PSF is as horizontal as possible. At the top of the organizational chart is the [VIP Telegram channel](https://t.me/psf_vip). Anyone can join the room, but only members who have cryptographically proven that they possess a PSF Governance NFT are allowed to speak in the room. Governance NFTs can be purchased via the [BCH DEX](https://dex.fullstack.cash). New Governance NFTs are sold by the PSF at a price of 1,000 PSF tokens. Governance NFTs may also be awarded for acts of great contribution to the PSF. Anyone who obtains a Governance NFTs can participate in PSF Governance. One NFTs translates to one vote.
+
+The VIP channel is where governance discussion takes place. After sufficient discussion and a rough consensus has been achieved, a voting proposal may be drafted to finalize and execute governance decisions. [Voting proposals](https://psfoundation.cash/proposals) are posted to the PSF website. Voting tokens are air-dropped to each address holding a PSF Governance NFT. One voting token is air-dropped for each Governance NFTs held. Votes are tallied to achieve a 'yes' or 'no' vote on major governance decisions.
+
+- [Speaking in the VIP Telegram Channel](https://youtu.be/2ETAFV7_CTk) (Video)
+- [How to Buy PSF Governance NFTs](https://youtu.be/IICUT404IHs) (Video)
 
 ## Sub-committees
 
