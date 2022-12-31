@@ -7,6 +7,8 @@ This page contains guidance for members of the Minting Council, and describes th
 
 The Minting Council does not have any autonomy. They should never coordinate on their own volition, but only take direction from the results of a governance proposal, after being voted on by Governance NFT holders.
 
+<iframe width="639" height="359" src="https://www.youtube.com/embed/FOQITW4DTIw" title="Intro: Minting Council" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Tracking Members
 Each member of the Minting Council is given an NFT, which acts like a homing beacon to track the members Bitcoin Cash address and public key. The public key is required to send the members end-to-end encrypted (**e2ee**) messages, and to send them multisignature transaction for them to sign.
 
