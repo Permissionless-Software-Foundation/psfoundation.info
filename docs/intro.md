@@ -5,7 +5,9 @@ slug: /
 
 # Introduction
 
-The [Permissionless Software Foundation](https://psfoundation.cash) is a community of JavaScript developers, entrepreneurs, and businesses. We develop and maintain business-focused cryptocurrency applications and communication software, based on the [The Cash Stack](https://cashstack.info). Some of our software consumes PSF tokens during operation, which allows us to maintain a circular economy with our open source contributors.
+The [Permissionless Software Foundation](https://psfoundation.cash) (**PSF**) is a community of JavaScript developers, entrepreneurs, and businesses. We develop and maintain business-focused cryptocurrency applications and communication software, based on the [The Cash Stack](https://cashstack.info). Some of our software consumes PSF tokens during operation, which allows us to maintain a circular economy with our open source contributors.
+
+**We primarily communicate on [this Telegram channel](https://t.me/permissionless_software). Join us there!**
 
 ## Our Mission
 
@@ -25,11 +27,11 @@ The PSF builds *infrastructure* for developers, and will occasionally produce ap
 
 Many non-developers who try to consume PSF software become disappointed and are quick to suggest feature improvements, then are further disappointed when their suggestions get little attention. This section exists to set appropriate expectations.
 
-The PSFs intention is for infrastructure, specifications, and demo apps produced by the PSF to serve as an inspiration to the developers and entrepreneurs who make up the PSF community. They are the ones who are expected to take the software to the next level, to create and manage a pleasant (and profitable) end-user experience.
+The PSFs intention is for infrastructure, [specifications](https://github.com/Permissionless-Software-Foundation/specifications), and demo apps produced by the PSF to serve as an inspiration to the developers and entrepreneurs who make up the PSF community. They are the ones who are expected to take the software to the next level, to create and manage a pleasant (and profitable) end-user experience.
 
 ## About This Site
 
-This website is open source, living documentation that any member of the PSF is welcome to edit. It describes the purpose and operation of the Permissionless Software Foundation. This documentation will evolve as the organization evolves.
+This website is open source, living documentation that any member of the PSF is welcome to edit by submiting a Pull Request to the [documentation repository](https://github.com/Permissionless-Software-Foundation/psfoundation.info). It describes the purpose and operation of the Permissionless Software Foundation. This documentation will evolve as the organization evolves.
 
 This documentation is where members go to read the nitty-gritty details about the PSF:
 - Tokenomics

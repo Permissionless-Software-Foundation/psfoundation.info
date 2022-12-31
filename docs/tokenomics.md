@@ -8,10 +8,10 @@ The PSF token is currently issued on the Bitcoin Cash (BCH) and eCash (XEC) bloc
 
 - BCH:
   - [38e97c5d7d3585a2cbf3f9580c82ca33985f9cb0845d4dcce220cb709f9538b0](https://token.fullstack.cash/?tokenid=38e97c5d7d3585a2cbf3f9580c82ca33985f9cb0845d4dcce220cb709f9538b0)
-- XEC: 
+- XEC:
   - [73fcc96ad73948a102a8cabac8fe1808f94f1a8ec5536b0f4d7c524ac63fc44a](https://explorer.be.cash/tx/73fcc96ad73948a102a8cabac8fe1808f94f1a8ec5536b0f4d7c524ac63fc44a)
 
-The [Minting Council](/governance#the-minting-council) holds the minting baton, which controls the ability to mint new PSF tokens into existence. The baton is held in a multisignature wallet, and each member of the Minting Council holds a key. They only communicate using encrypted messages passed over the Bitcoin Cash blockchain.
+The [Minting Council](/governance#the-minting-council) holds the minting baton, which controls the ability to mint new PSF tokens into existence. The baton is held in a multisignature wallet, and each member of the Minting Council holds a key.
 
 ## Token Liquidity and Peg
 
@@ -19,7 +19,11 @@ The PSF token is loosely pegged to the value of Bitcoin Cash (BCH). The price of
 
 The token-liquidity app maintains its own wallet, containing both BCH and PSF tokens. The token-liquidity app is classified as an 'automated market maker'. It's akin to a vending machine that will trade PSF tokens in exchange for BCH, according to a predefined equation. In this way, the app provides perfect liquidity between BCH and the PSF token, and the PSF is 'backed' by the BCH in the apps wallet.
 
-The token-liquidity app is currently the best way to obtain PSF tokens to participate in governance, or to interact with PSF software that charges fees in PSF tokens. But this app will eventually be phased out in favor of [dex.fullstack.cash](https://dex.fullstack.cash) as described in [the Roadmap](/roadmap).
+## Obtaining Tokens and NFTs
+
+The [BCH DEX](https://dex.fullstack.cash) is currently the best way to obtain PSF tokens and Governance NFTs. PSF tokens are required to interact with PSF software that charges fees in PSF tokens. Alternatively, PSF tokens can be purchased or sold by interacting directly with the token-liquidity app via the instructions listed at [PSFoundation.cash](https://psfoundation.cash).
+
+Governance NFTs allow holders to participate in governance. They are sold at a price of 1,000 PSF tokens. Each NFT that is purchased burns 1,000 PSF tokens, taking them out of circulation and increasing the value of the PSF token.
 
 ## The 'Nuclear' Option
 
