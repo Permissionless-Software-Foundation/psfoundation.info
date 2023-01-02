@@ -24,7 +24,7 @@ An update to the P2WDB write price is initiated by executing the [`mc-update-p2w
 - A multig transaction (**TX**) is generated to update the P2WDB write price.
 - The TX is sent to each Minting Council member through an e2ee message.
 
-The member of the Management who initiated the transaction, will also announce on the following information on the [VIP Telegram channel](https://t.me/psf_vip):
+The member of the Management who initiated the transaction, will also announce the following information on the [VIP Telegram channel](https://t.me/psf_vip):
 
 - The *subject* of the message used to send the transaction to each Minting Council member.
 - The *address* the message was sent from.
