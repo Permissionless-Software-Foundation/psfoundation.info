@@ -71,5 +71,4 @@ The token for this proposal will have the following name and ticker:
 
 - **Name**: PSF VOTE #0006
 - **Ticker**: PSFVOTE0006
-
-*This section will contain more information on the voting token once it is generated.*
+- Token ID: [7d5275652f68de6584a34fbd7753b504c0bdee36cf16c80346f64173909a58b4](https://slp-token.fullstack.cash/?tokenid=7d5275652f68de6584a34fbd7753b504c0bdee36cf16c80346f64173909a58b4)
