@@ -14,18 +14,29 @@ Each member of the Minting Council is given an NFT, which acts like a homing bea
 
 Executing the [`mc-collect-keys` command](https://github.com/Permissionless-Software-Foundation/psf-bch-wallet#psf-bch-wallet-mc-collect-keys) in psf-bch-wallet will show the addresses and public keys for all Minting Council NFT holders.
 
-## Initiating a Transaction
-Once a governance proposal has been been voted on, a member of the [The Management](/governance#the-management) will initiate a multisignature (**multisig**) transaction. The most common form of multisig transaction is the quarterly update to the [P2WDB](https://p2wdb.com) write price. This price is set in PSF tokens, and needs to be updated each quarter to reflect the price of $0.01 USD in PSF tokens.
+## Updating the P2WDB
 
-An update to the P2WDB write price is initiated by executing the [`mc-update-p2wdb-price` command](https://github.com/Permissionless-Software-Foundation/psf-bch-wallet#psf-bch-wallet-mc-update-p2wdb-price). This command will execute the following workflow:
+The most common form of multisig transaction is the quarterly update to the [P2WDB](https://p2wdb.com) write price. This price is set in PSF tokens, and needs to be updated each quarter to reflect the price of $0.01 USD in PSF tokens.
+
+An update to the P2WDB write price is initiated by executing the [`mc-p2wdb-update-tx` command](https://github.com/Permissionless-Software-Foundation/psf-bch-wallet/tree/f0b6ed6b2efa2445d9e3004d4c0ef84270d33755#psf-bch-wallet-mc-p2wdb-update-tx). This command will execute the following workflow:
 
 - It looks up the public keys for each Minting Council NFT holder.
 - Those public keys are used to generate a multisig wallet.
-- A multig transaction (**TX**) is generated to update the P2WDB write price.
-- The TX is sent to each Minting Council member through an e2ee message.
+- A multig transaction (**TX**) is generated.
+- The price of $0.01 USD worth of PSF tokens is calculated
+- All data is written to IPFS.
+- The CID for the data is written to the BCH blockchain.
+
+The the command above will create an *Update Transaction* as per the [PS009 specification](https://github.com/Permissionless-Software-Foundation/specifications/blob/master/ps009-multisig-approval.md). Next, a member of the Management will execute the [`mc-p2wdb-approval-tx` command](https://github.com/Permissionless-Software-Foundation/psf-bch-wallet/tree/f0b6ed6b2efa2445d9e3004d4c0ef84270d33755#psf-bch-wallet-mc-p2wdb-approval-tx) to generate an *Approval Transaction*. This command will execute the following workflow:
+
+- It looks up the public keys for each Minting Council NFT holder.
+- Those public keys are used to generate a multisig wallet.
+- A multig transaction (**TX**) is generated which *approves* the Update Transaction.
+- The unsigned multisig transaction is sent to each member of the Minting Council via an e2ee message.
 
 The member of the Management who initiated the transaction, will also announce the following information on the [VIP Telegram channel](https://t.me/psf_vip):
 
+- The *TXID* of the Update Transaction.
 - The *subject* of the message used to send the transaction to each Minting Council member.
 - The *address* the message was sent from.
 
