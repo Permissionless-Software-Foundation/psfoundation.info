@@ -37,7 +37,7 @@ Casting a 'Yes' means this proposal would form the Minting Council with the five
 
 To cast a 'Yes' vote, send your voting tokens to this SLP address:
 
-[![simpleledger:qqn3m53gxm8399em67yks9067wtpwqshhcyrdqyx25](../img/PSFVOTE0006-yes.png)](https://token.fullstack.cash/address/?address=bitcoincash:qqn3m53gxm8399em67yks9067wtpwqshhcgcxm3x52)
+[![simpleledger:qqn3m53gxm8399em67yks9067wtpwqshhcyrdqyx25](../../img/PSFVOTE0006-yes.png)](https://token.fullstack.cash/address/?address=bitcoincash:qqn3m53gxm8399em67yks9067wtpwqshhcgcxm3x52)
 
 simpleledger:qqn3m53gxm8399em67yks9067wtpwqshhcyrdqyx25
 
@@ -47,7 +47,7 @@ Casting a 'No' vote would not create the Minting Council. Continued discussion w
 
 To cast a 'No' vote, send your voting tokens to this SLP address:
 
-[![simpleledger:qqkq55p8sq3petes4lednlj5ksu2we6eysfpm7wkrg](../img/PSFVOTE0006-no.png)](https://token.fullstack.cash/address/?address=bitcoincash:qqkq55p8sq3petes4lednlj5ksu2we6eys96s9mkak)
+[![simpleledger:qqkq55p8sq3petes4lednlj5ksu2we6eysfpm7wkrg](../../img/PSFVOTE0006-no.png)](https://token.fullstack.cash/address/?address=bitcoincash:qqkq55p8sq3petes4lednlj5ksu2we6eys96s9mkak)
 
 simpleledger:qqkq55p8sq3petes4lednlj5ksu2we6eysfpm7wkrg
 
@@ -59,7 +59,7 @@ way, the tokens will not be considered in the 'Yes' or 'No' tally.
 
 To abstain from voting, send your voting token to this SLP address:
 
-[![simpleledger:qzk57h2q6f8a0w5nnu26gaj6ru06465kpg6smzad2v](../img/PSFVOTE0006-abstain.png)](https://token.fullstack.cash/address/?address=bitcoincash:qzk57h2q6f8a0w5nnu26gaj6ru06465kpgktsegd5j)
+[![simpleledger:qzk57h2q6f8a0w5nnu26gaj6ru06465kpg6smzad2v](../../img/PSFVOTE0006-abstain.png)](https://token.fullstack.cash/address/?address=bitcoincash:qzk57h2q6f8a0w5nnu26gaj6ru06465kpgktsegd5j)
 
 simpleledger:qzk57h2q6f8a0w5nnu26gaj6ru06465kpg6smzad2v
 
