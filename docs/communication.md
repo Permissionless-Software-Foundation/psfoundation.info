@@ -4,18 +4,18 @@ sidebar_position: 4
 
 # Communication
 
-The PSF exists with the expectation that it will one day be threatened by a State actor. If the PSF is successful in wide adoption of its software, and stays true to its [mission](/#our-mission), then it will inevitably be threatened by a State actor. For that reason, communication channels in the PSF straddle a pragmatic approach between convenience and self-sufficiency.
+Telegram is heavily used for communication channels, but the PSF maintains alternative communication channels and is prepared to combat any attempts at censorship or deplatforming. The following Telegram channels are maintained by the PSF community:
 
-Telegram is heavily used for communication channels, but the PSF maintains its own independent communication channels to combat any attempts at censorship or deplatforming. The following Telegram channels are maintained by the PSF community:
+- [PSF General Channel](https://t.me/permissionless_software) is used by the general public to ask questions, and is used by the wider PSF community to discuss governance and news related to the PSF.<br /><br />
+- [bch-js-toolkit](https://t.me/bch_js_toolkit) is the community technical support channel. Any software developers with technical questions can ask them in this channel, and any software developer with experience using PSF software is free to answer.<br /><br />
+- The [PSF VIP Channel](https://t.me/psf_vip) is open to the public, but a chat bot ensures that only members who have proven ownership of a Governance NFT can speak. This channel is used to discuss major governance changes in the PSF.<br /><br />
+- [PSF Social Chat](https://t.me/psf_social) is largely unmoderated. This is where off-topic ideas can be discussed.<br /><br />
+- [psf-slp-indexer](https://t.me/psf_slp) is a Telegram channel to discuss technical concepts directly applicable to the [psf-slp-indexer software](http://github.com) or the [SLP protocol for tokens](https://github.com/simpleledger/slp-specifications/blob/master/slp-token-type-1.md).<br /><br />
+- [psf-dex-dev](https://t.me/psf_dex_dev) is used for technical discussion around the [bch-dex](https://dex.fullstack.cash) DEX software, and its forks for the AVAX and eCash blockchains.<br /><br />
 
-- [PSF General Channel](https://t.me/permissionless_software) is used by the general public to ask questions, and is used by the wider PSF community to discuss governance and news related to the PSF.
-- [bch-js-toolkit](https://t.me/bch_js_toolkit) is the community technical support channel. Any software developers with technical questions can ask in this channel, and any software developer with experience using PSF software is free to answer.
-- The [PSF VIP Channel](https://t.me/psf_vip) is open to the public, but a chat bot ensures that only members who have proven ownership of a Governance token can speak. This channel is used to discuss major governance changes in the PSF.
-- [PSF Social Chat](https://t.me/psf_social) is largely unmoderated. This is where off-topic ideas can be discussed.
-- [psf-slp-indexer](https://t.me/psf_slp) is a Telegram channel to discuss technical concepts directly applicable to the [psf-slp-indexer software](http://github.com) or the [SLP protocol for tokens](https://github.com/simpleledger/slp-specifications/blob/master/slp-token-type-1.md).
-- [psf-dex-dev](https://t.me/psf_dex_dev) is used for technical discussion around the [bch-dex](https://dex.fullstack.cash) DEX software, and its forks for the AVAX and eCash blockchains.
+## Alternative Communication Channels
+PSF members are constantly evaluating alternative communication channels, in case Telegram ever becomes an unfriendly place for PSF members to communicate. The [psf-bch-wallet](https://github.com/Permissionless-Software-Foundation/psf-bch-wallet) has commands for sending email-like end-to-end-encrypted (e2ee) messages using a combination of BCH blockchain and IPFS network. This is the primary way the [Minting Council](/governance/minting-council) communicates. This is our primary fallback communication medium, but we are also keeping our eyes on the following communication technologies:
 
-In the event that PSF's presence on Telegram is ever threatened, the following communication channels have been developed. They are typically used for specific business applications, but provide a 'fall-back' for communication if Telegram is ever unavailable.
-
-- [chat.fullstack.cash](https://chat.fullstack.cash) is a browser-based encrypted chat application. The app creates an encrypted communication channel between any two computers in the world. This app is being developed as an interface to the PSF chat bot that will be an interface to our DEX software.
-- [psf-bch-wallet](https://github.com/Permissionless-Software-Foundation/psf-bch-wallet) is a BCH wallet with many other features. It runs on the command line, so has no graphical user interface. It's capable of replacing chat.fullstack.cash as an interface to our encrypted chat channels. It also has the ability to send encrypted 'email' over the BCH blockchain. It's the primary communication tool for the [Minting Council](/governance#the-minting-council).
+- [Gitter.im](https://gitter.im/) has tight integration with GitHub and is a popular communication platform for software developers. There are services for creating bridges between Gitter and Telegram.<br /><br />
+- [Matrix](https://matrix.org/) is an anon-friendly chat technology. It's easy to create bridges between Matrix and Telegram.<br /><br />
+- [Nostr](https://nostr.com/) is an up-and-coming social media protocol. It's decentralized and permissionless, making it an attractive communication medium.
