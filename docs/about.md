@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Membership
+# About
 
 The PSF is a loosely affiliated membership of entrepreneurs, crypto-enthusiasts, and JavaScript developers. There are two tiers of members:
 
