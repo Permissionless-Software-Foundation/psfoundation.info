@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # Communication
 
-Telegram is heavily used for communication channels, but the PSF maintains alternative communication channels and is prepared to combat any attempts at censorship or deplatforming. The following Telegram channels are maintained by the PSF community:
+[Telegram](https://telegram.org/) is heavily used for communication channels, but the PSF maintains alternative communication channels and is prepared to combat any attempts at censorship or deplatforming. The following Telegram channels are maintained by the PSF community:
 
 - [PSF General Channel](https://t.me/permissionless_software) is used by the general public to ask questions, and is used by the wider PSF community to discuss governance and news related to the PSF.<br /><br />
 - [bch-js-toolkit](https://t.me/bch_js_toolkit) is the community technical support channel. Any software developers with technical questions can ask them in this channel, and any software developer with experience using PSF software is free to answer.<br /><br />
