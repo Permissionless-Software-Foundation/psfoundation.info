@@ -10,41 +10,37 @@ Milestones are rarely 'done', because they require steady maintenance over time.
 
 ## Major Milestones Achieved
 
-- Create documentation to describe the [Cash Stack](https://cashstack.info).
+- Create documentation for the [Cash Stack](https://cashstack.info).
 - Create a proposal voting process using SLP tokens.
-- Create end-to-end encrypted (ee2e) synchronous chat using Bitcoin Eliptic Curve encryption.
 - Create ee2e 'email' allowing asynchronous communication with any BCH address.
 - Create a mutable data protocol for SLP tokens, allowing changing token icons and tracking of changing data over time.
-- Create a more reliable token indexer for SLP tokens.
-- Create a [decentralized exchange](https://bch-dex-docs.fullstack.cash/) (DEX) for trading SLP tokens.
+- Create a more reliable token [indexer for SLP tokens](https://github.com/Permissionless-Software-Foundation/psf-slp-indexer).
+- Create a [decentralized exchange](https://dex.fullstack.cash) (DEX) and [documentation](https://bch-dex-docs.fullstack.cash/) for trading SLP tokens.
+- Create [P2WDB Documentation](https://p2wdb.com) for the pay-to-write database (P2WDB).
+- Create [CoinJoin framework](https://ccoinjoin.com/) that can be applied to SLP tokens for fungible, private tokens.
+
 
 ## Milestones Under Development
 
-- [Cash Stack](https://cashstack.info)
-  - Get [psf-bch-wallet](https://github.com/Permissionless-Software-Foundation/psf-bch-wallet) to 100% test coverage.
-  - Get [ipfs-service-provider](https://github.com/Permissionless-Software-Foundation/ipfs-service-provider) to 100% test coverage.
-  - Create better documentation for [minimal-slp-wallet](https://github.com/Permissionless-Software-Foundation/minimal-slp-wallet).
-  - Create better documentation to explain the relationship between [psf-bch-wallet](https://github.com/Permissionless-Software-Foundation/psf-bch-wallet), [ipfs-bch-wallet-consumer](https://github.com/Permissionless-Software-Foundation/ipfs-bch-wallet-consumer), and [ipfs-bch-wallet-service](https://github.com/Permissionless-Software-Foundation/ipfs-bch-wallet-service), and the commands used by psf-bch-wallet to control the other two.
-- [DEX](https://bch-dex-docs.fullstack.cash/)
-  - Port existing 'sell' functionality to AVAX.
-  - Port existing 'sell' functionality to eCash.
-  - Build chat-bot interface.
-  - Add OP_RETURN emergency remote controls.
-- P2WDB
-  - Create year-end migration plan.
-  - Create 5-year database.
-  - Experiment with moving to a public IPFS network.
-  - Create a [Craigslist](https://portland.craigslist.org/) clone that uses P2WDB and the web3 Cash Stack as the back end.
-- Bridges
-  - Create bridge between PSF token and USDC.e on AVAX
-  - Create a PSF token on eCash
-  - Create bridge between PSF tokens on BCH and eCash
-- Administration
-  - Refactor chat.fullstack.cash to work with web3 Cash Stack.
-  - Add email notification feature to psf-bch-wallet e2ee messages.
-  - Create initial Minting Council
-  - Have Minting Council practice rotating keys
-  - Set up quartly key rotation meetings.
-  - Air-drop new PSF token with token icon and mutable data.
+Infrastructure developed in previous milestones (like the [pay-to-write database (P2WDB)](https://p2wdb.com), [Cash Stack](https://cashstack.info), [SLP indexer](https://github.com/Permissionless-Software-Foundation/psf-slp-indexer), and [Collaborative CoinJoin](https://ccoinjoin.com/)) are the foundation stones upon which future projects are built. The P2WDB is a focal point for the PSF, because its usage consumes PSF tokens and allows the PSF to fund developers to maintain the code behind the infrastructure. This creates a virtuous, circular economy.
+
+### Pay-to-Write Database (P2WDB)
+The [P2WDB](https://p2wdb.com) consumes [PSF tokens](https://psfoundation.cash) when new entries are written to the database. New features are steadily added to the software to make it easier to use and more capable of solving additional business problems.
+
+Milestones:
+- Increase [pinning-service](https://p2wdb.com/docs/apps/pinning-service) file size from 1MB to 100MB.
+- Add blacklist CID array, so that operators can blacklist certain DB records.
+
+### Local Trade List
+[LocalTradeList](https://localtradelist.com) is a directory of local businesses. Anyone can list businesses and products on the app. Because the software is open source and the data is anchored to the blockchain, the data can never be censored or tampered with. Local Trade List is built on top of the P2WDB and SLP tokens.
+
+Milestones:
+
+- Create non-custodial image upload, to make it easier to create a store.
+- Add *Commenting*, allowing users to leave comments and reviews on stores.
+- Allow commenting on other comments.
+
+
+
 
 Want clarification on the above items? See something interesting that you'd like to contribute to? Ask about it in the [PSF Telegram Channel](https://t.me/permissionless_software).
