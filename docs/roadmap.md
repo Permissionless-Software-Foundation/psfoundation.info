@@ -30,6 +30,7 @@ The [P2WDB](https://p2wdb.com) consumes [PSF tokens](https://psfoundation.cash) 
 Milestones:
 - Increase [pinning-service](https://p2wdb.com/docs/apps/pinning-service) file size from 1MB to 100MB.
 - Add blacklist CID array, so that operators can blacklist certain DB records.
+- Create tracking and bounty system to compensate PSF members for running P2WDB instances.
 
 ### Local Trade List
 [LocalTradeList](https://localtradelist.com) is a directory of local businesses. Anyone can list businesses and products on the app. Because the software is open source and the data is anchored to the blockchain, the data can never be censored or tampered with. Local Trade List is built on top of the P2WDB and SLP tokens.
