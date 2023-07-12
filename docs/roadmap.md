@@ -40,7 +40,13 @@ Milestones:
 - Add *Commenting*, allowing users to leave comments and reviews on stores.
 - Allow commenting on other comments.
 
+### Member Projects
 
+The PSF is a membership of entrepreneurs, crypto enthusiasts, and JavaScript developers. The members help one another with projects, listing to their ideas and trying out their prototypes. A important part of the PSF roadmap is to increase our membership and to continue to support the efforts of our members. Here are some of the active community projects using PSF technology:
+
+- [Token Tiger](https://tokentiger.com) is a fun, easy-to-use web app for creating NFTs. Under its cute exterior, it's a proof-of-concept to show how inexpensive it is to create NFTs with rich metadata. Such NFTs could be used to improve logistics and tracking in the supply chain industry. They can also be used to track intellectual property and rights associated with that property.
+
+- [OwnRare.Art](https://ownrare.art) is an NFT creator, collector, and trading app on the Bitcoin Cash (BCH) blockchain, similar to [OpenSea](https://opensea.io) on the Ethereum (ETH) blockchain.
 
 
 Want clarification on the above items? See something interesting that you'd like to contribute to? Ask about it in the [PSF Telegram Channel](https://t.me/permissionless_software).
