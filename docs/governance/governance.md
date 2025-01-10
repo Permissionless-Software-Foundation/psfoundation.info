@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 
 # Governance
-At the highest conceptual level, the goal of PSF governance is to ensure that the people *most impacted* by decisions are the ones with the *greatest influence* over those decisions. Everything else is a detail in the attempt to achieve that ideal.
+At the highest conceptual level, the goal of PSF governance is to ensure that the people *most impacted* by decisions are the ones with the *greatest influence* over those decisions. That ideal guides all decisions around governance.
 
 To make that idea less abstract: When new PSF tokens are brought into existence, it dilutes the value of the existing tokens through inflation. Therefore, the PSF governance is structured to give the existing token holders the most power over decision making.
 
