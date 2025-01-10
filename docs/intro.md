@@ -13,6 +13,15 @@ The [Permissionless Software Foundation](https://psfoundation.cash) (**PSF**) is
 
 The mission of the PSF is to help individuals protect their privacy, circumvent censorship, and engage in economic activity. The software we build and maintain is in service to that mission.
 
+Our suite of software focuses on the following use cases:
+- censorship-resistant money
+- censorship-resistant networking
+- censorship-resistant resource sharing
+- censorship-resistant file hosting
+- end-to-end encrypted (E2EE) messaging
+- token creation and management
+- decentralized exchange (DEX) for buying and selling tokens
+
 ## Open Source
 
 The PSF's approach to open source software is greatly influenced by:
