@@ -37,7 +37,7 @@ Below is a list of software maintained by the PSF. They are listed below accordi
 
     - [psf-msg-wallet](https://github.com/Permissionless-Software-Foundation/psf-msg-wallet) - Used to send and recieve encrypted messages and files.
 
-    - [psf-mc-wallet](https://github.com/Permissionless-Software-Foundation/psf-mc-wallet) - Used for PSF governence. This is specifically built for members of the Minting Councile, to approve changes to the [PSFFPP](https://psffpp.com) write price in PSF tokens. Forked from psf-msg-wallet.
+    - [psf-mc-wallet](https://github.com/Permissionless-Software-Foundation/psf-mc-wallet) - Used for PSF governence. This is specifically built for members of the Minting Council, to approve changes to the [PSFFPP](https://psffpp.com) write price in PSF tokens. Forked from psf-msg-wallet.
 
     - [psf-ipfs](https://github.com/Permissionless-Software-Foundation/psf-ipfs) - CLI app for exploring and managing the decentralized IPFS network that makes up the [PSFFPP](https://psffpp.com) and [web3 Cash Stack](https://cashstack.info).
   
