@@ -22,6 +22,8 @@ Our suite of software focuses on the following use cases:
 - token creation and management
 - decentralized exchange (DEX) for buying and selling tokens
 
+By the PSF maintaing these primitive features, it empowers entrepreneurs to focus on software specific for their business, while leveraging these features.
+
 ## Open Source
 
 The PSF's approach to open source software is greatly influenced by:
