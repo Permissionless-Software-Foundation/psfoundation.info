@@ -3,12 +3,12 @@ sidebar_position: 1
 ---
 
 # Governance
-At the highest conceptual level, the goal of PSF governance is to ensure that the people *most impacted* by decisions are the ones with the *greatest influence* over those decisions. That ideal guides all decisions around governance.
+At the highest conceptual level, the goal of PSF governance is to ensure that the people *most impacted* by decisions are the ones with the *greatest influence* over those decisions. That ideal guides all strategy around governance.
 
 To make that idea less abstract: When new PSF tokens are brought into existence, it dilutes the value of the existing tokens through inflation. Therefore, the PSF governance is structured to give the existing token holders the most power over decision making.
 
 ## Org Chart
-The governance structure for the PSF is as horizontal as possible. At the top of the organizational chart is the [VIP Telegram channel](https://t.me/psf_vip). Anyone can join the room, but only members who have cryptographically proven they possess a PSF Governance NFT are allowed to speak in the room. Governance NFTs can be purchased via the [BCH DEX](https://dex.fullstack.cash). New Governance NFTs are sold by the PSF at a price of 1,000 PSF tokens. Governance NFTs may also be awarded for acts of great contribution to the PSF. Anyone who obtains a Governance NFTs can participate in PSF Governance through [voting](/governance/voting).
+The governance structure for the PSF is as horizontal as possible. At the top of the organizational chart is the [VIP Telegram channel](https://t.me/psf_vip). Anyone can join the room, but only members who have cryptographically proven they possess a PSF Governance NFT are allowed to speak in the room. Governance NFTs can be purchased via the [BCH DEX](https://dex.psfoundation.info). New Governance NFTs are sold by the PSF at a price of 1,000 PSF tokens. Governance NFTs may also be awarded for acts of great contribution to the PSF. Anyone who obtains a Governance NFTs can participate in PSF Governance through [voting](/governance/voting).
 
 There are four sub-committees that are accountable to the members in the [VIP channel](https://t.me/psf_vip):
 - The Management - A small team of dedicated members who perform administrative tasks.
@@ -64,4 +64,4 @@ The [Community Committee](https://github.com/Permissionless-Software-Foundation/
 
 ### Software License
 
-The PSF uses the [GPL v2 License](https://psfoundation.cash) (the same as Linux) for our 'core' infrastructure software. [MIT license](https://psfoundaition.cash) is used for all other software, like application examples. The goal is to ensure everyone is free to hack-on, share, and expand our software. The goal is to encourage the growth of cryptocurrency and all it's freedom-enhancing promise.
+The PSF uses the [GPL v2 License](https://psfoundation.cash) (the same as Linux) for our 'core' infrastructure software. [MIT license](https://psfoundaition.cash) is used for all other software, like application examples. The goal is to ensure everyone is free to hack-on, share, and expand our software. The goal is to encourage the growth of cryptocurrency and its promise of enhancing individual freedom.
