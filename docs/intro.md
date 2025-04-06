@@ -22,7 +22,7 @@ Our suite of software focuses on the following use cases:
 - token creation and management
 - decentralized exchange (DEX) for buying and selling tokens
 
-By the PSF maintaing these primitive features, it empowers entrepreneurs to focus on software specific for their business, while leveraging these features.
+By the PSF maintaining these primitive features, it empowers entrepreneurs to focus on software specific for their business, while leveraging these features.
 
 ## Open Source
 
@@ -42,7 +42,7 @@ The PSFs intention is for infrastructure, [specifications](https://github.com/Pe
 
 ## About This Site
 
-This website is open source, living documentation that any member of the PSF is welcome to edit by submiting a Pull Request to the [documentation repository](https://github.com/Permissionless-Software-Foundation/psfoundation.info). It describes the purpose and operation of the Permissionless Software Foundation. This documentation will evolve as the organization evolves.
+This website is open source, living documentation that any member of the PSF is welcome to edit by submitting a Pull Request to the [documentation repository](https://github.com/Permissionless-Software-Foundation/psfoundation.info). It describes the purpose and operation of the Permissionless Software Foundation. This documentation will evolve as the organization evolves.
 
 This documentation is where members go to read the nitty-gritty details about the PSF:
 - Tokenomics

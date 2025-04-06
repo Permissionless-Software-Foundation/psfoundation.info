@@ -22,7 +22,7 @@ An update to the PSFFPP write price is initiated by the 'Head Janitor', who exec
 
 - It looks up the public keys for each Minting Council NFT holder.
 - Those public keys are used to generate a multisig wallet.
-- A multig transaction (**TX**) is generated.
+- A multisig transaction (**TX**) is generated.
 - The price of $0.01 USD worth of PSF tokens is calculated
 - All data is uploaded and pinned by the [PSFFPP network](https://psffpp.com) on IPFS.
 - The CID for the data is written to the BCH blockchain in an 'update transaction'.
